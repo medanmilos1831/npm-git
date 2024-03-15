@@ -4,4 +4,4 @@ const Counter = () => {
   return <>Coddsssunter</>;
 };
 
-export { Counter };
+export default Counter;

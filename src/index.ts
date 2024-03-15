@@ -1,1 +1,3 @@
-export * from "./components/Counter";
+import MyCounter from "./components/App";
+
+export { MyCounter };
